@@ -4,7 +4,8 @@ Embedded iframe and Absolute positioning for Above and Beyond
 ## Attributions
 - Embedded iframe --- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
 - Absolute positioning --- https://www.w3schools.com/css/css_positioning.asp
-- Responsive iframe with absolute positioning --- https://blog.duda.co/responsive-google-maps-for-your-website
+- Responsive iframe with absolute positioning code sample --- https://blog.duda.co/responsive-google-maps-for-your-website
+- Code Sample
 ```
 .map-responsive{
     overflow:hidden;
